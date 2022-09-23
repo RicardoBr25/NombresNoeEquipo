@@ -18,6 +18,7 @@ public class NombresEjemplo {
         // TODO code application logic here
         //Nombres
         System.out.println("Mi nombre es Ricardo");
+        System.out.println("Mi nombre es Sinai");
     }
     
 }
