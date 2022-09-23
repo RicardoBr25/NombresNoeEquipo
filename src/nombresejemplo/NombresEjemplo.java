@@ -20,6 +20,7 @@ public class NombresEjemplo {
         System.out.println("Mi nombre es Ricardo");
         System.out.println("Mi nombre es Sinai");
         System.out.println("Mi nombre es Monse"); 
+        System.out.println("Mi nombre es Citly");
     }
     
 }
