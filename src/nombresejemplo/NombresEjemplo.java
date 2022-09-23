@@ -16,6 +16,8 @@ public class NombresEjemplo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Nombres
+        System.out.println("Mi nombre es Ricardo");
     }
     
 }
